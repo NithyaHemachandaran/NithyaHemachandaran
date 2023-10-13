@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e)](http://nithyahemachandaran.io)
-
 <h1 align="center">Hi 👋, I'm Nithya Hemachandaran</h1>
 <h3 align="center">A passionate Front End Developer |Full Stack developer |MERN from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">

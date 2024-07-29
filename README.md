@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,Nextjs**
+- 🌱 I’m currently learning Nextjs**
 
-- 💬 Ask me about **Js,React,Node,MongoDB**
+- 💬 Ask me about **java,php,Javascript,Reactjs,Nodejs,MongoDB**
 
 - 📫 How to reach me **nithya8989@gmail.com**
 
